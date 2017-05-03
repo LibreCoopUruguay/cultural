@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libre.coop_es_ES\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-05-02 18:41-0300\n"
-"PO-Revision-Date: 2017-05-02 18:43-0300\n"
+"POT-Creation-Date: 2017-05-03 12:04-0300\n"
+"PO-Revision-Date: 2017-05-03 12:12-0300\n"
 "Last-Translator: Felipe <felipecoelhokussik@gmail.com>\n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -32,15 +32,15 @@ msgstr "Menú Secundario"
 msgid "Menu Mobile"
 msgstr "Menú Mobile"
 
-#: ../functions.php:312
+#: ../functions.php:316
 msgid "Área de widget do header"
 msgstr "Área de widget del cabezal"
 
-#: ../functions.php:313
+#: ../functions.php:317
 msgid "Aparece na área do header, sob o ícone da lupa"
 msgstr "Aparece en el área del cabezal, sobre el ícono de la lupa"
 
-#: ../functions.php:322
+#: ../functions.php:326
 msgid "Área de widget do conteúdo"
 msgstr "Área de widget del contenido"
 
@@ -135,7 +135,7 @@ msgstr "Ninguna entrada encontrada"
 msgid "Permalink para &ldquo;%s&rdquo;"
 msgstr ""
 
-#: ../content-grid.php:30 ../partials/event-box.php:94
+#: ../content-grid.php:30 ../partials/event-box.php:95
 #: ../partials/slider.php:32 ../page-templates/events-list.php:164
 msgid "Mais informações"
 msgstr "Más información"
@@ -202,15 +202,27 @@ msgstr "No informado"
 msgid "Local"
 msgstr "Local"
 
-#: ../partials/event-box.php:77
+#: ../partials/event-box.php:68 ../partials/event-box.php:72
+msgid "Sim"
+msgstr "Sí"
+
+#: ../partials/event-box.php:69
+msgid "Tradução para LIBRAS"
+msgstr "Traducción para lenguaje de señas"
+
+#: ../partials/event-box.php:74
+msgid "Áudio descrição"
+msgstr "Audio descripción"
+
+#: ../partials/event-box.php:78
 msgid "acessibilidade"
 msgstr "Accesibilidad"
 
-#: ../partials/event-box.php:82 ../page-templates/events-list.php:157
+#: ../partials/event-box.php:83 ../page-templates/events-list.php:157
 msgid "Projeto"
 msgstr "Proyecto"
 
-#: ../partials/event-box.php:89 ../page-templates/events-list.php:161
+#: ../partials/event-box.php:90 ../page-templates/events-list.php:161
 msgid "Publicado por"
 msgstr "Publicado por"
 
@@ -225,6 +237,22 @@ msgstr "Palabra clave"
 #: ../page-templates/events-list.php:38
 msgid "Data"
 msgstr "Fecha"
+
+#: ../page-templates/events-list.php:56
+msgid "Aplicar"
+msgstr "Aplicar"
+
+#: ../page-templates/events-list.php:57
+msgid "Cancelar"
+msgstr "Cancelar"
+
+#: ../page-templates/events-list.php:58
+msgid "De"
+msgstr "De"
+
+#: ../page-templates/events-list.php:59
+msgid "Até"
+msgstr "Hasta"
 
 #: ../page-templates/events-list.php:70 ../page-templates/events-list.php:140
 msgid "Linguagem"
@@ -363,7 +391,7 @@ msgstr "%s atrás"
 
 #: ../inc/template-tags.php:264
 msgid "por"
-msgstr ""
+msgstr "por"
 
 #: ../inc/template-tags.php:286
 #, php-format
@@ -375,7 +403,7 @@ msgstr "Publicado el %1$s"
 #, php-format
 msgctxt "post author"
 msgid "por %s"
-msgstr ""
+msgstr "por %s"
 
 #: ../inc/template-tags.php:308
 #, fuzzy
